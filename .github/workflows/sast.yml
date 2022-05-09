@@ -1,4 +1,4 @@
-name: TestScan
+name: Security
 on:
   push:
     branches:
